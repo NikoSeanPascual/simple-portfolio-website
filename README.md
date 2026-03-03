@@ -1,6 +1,7 @@
 # Simple Portfolio Website
 It's very simple and the buttons doesn't really do anything, you're free to change the style
-of the website by changing the values at javascript, also keep in midn that I needed help from a video
+of the website by changing the values at javascript, also keep in mind that I needed help from a video
+from FreeCodeCamp.org and this is the video to that(https://www.youtube.com/watch?v=LzMnsfqjzkA&t=8763s)
 to make this, because it's my first week trying to learn Javascript, HTML and CSS at the same time as
 I want to try out other stuff other than Python(I am not abandoning Python though)
 

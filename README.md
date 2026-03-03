@@ -1,4 +1,4 @@
-#Simple Portfolio Website
+# Simple Portfolio Website
 It's very simple and the buttons doesn't really do anything, you're free to change the style
 of the website by changing the values at javascript, also keep in midn that I needed help from a video
 to make this, because it's my first week trying to learn Javascript, HTML and CSS at the same time as

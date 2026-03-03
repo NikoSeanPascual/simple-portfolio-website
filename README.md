@@ -6,6 +6,6 @@ to make this, because it's my first week trying to learn Javascript, HTML and CS
 I want to try out other stuff other than Python(I am not abandoning Python though)
 
 also if you want to see what the website in person before downloading this project, I actually sent it
-to the we, feel free to check it out (note though it doesn't really look good in a mobile device)
+to the internet, feel free to check it out (note though it doesn't really look good in a mobile device)
 
 - https://scintillating-caramel-e5e8a7.netlify.app/
